@@ -4,7 +4,7 @@ Babiš;Lukáš;SV1B
 Balarin;Evžen;SV1A
 Balová;Lucie;U1
 Bártíková;Adéla;IT1
-Binarová;Bìta;U1
+Binarová;Běta;U1
 Böhm;Jan;SV1B
 Bolf;Lukáš;SV1A
 Borunský;Jakub;SV1B
@@ -17,7 +17,7 @@ Dittrich;Max;SV1A
 Divín;Tomáš;U1
 Drastík;Jakub;IT1
 Dubělčíková;Tatiana;U1
-Dubinský;Matìj;IT1
+Dubinský;Matěj;IT1
 Dubový;Daniel;U1
 Dvořák;Filip;IT1
 Fialová;Alice;IT1
