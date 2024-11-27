@@ -1,12 +1,12 @@
-1. Zjistìte detailní informace o staeném videoklipu:
-    a) Jména interpretù i název hudební skupiny.2CELLOS Luka Šuliæ a Stjepan Hauser
-    b) Název skladby. Game of Thrones
-    c) S jakım seriálem je tato skladba spojena? Kdo je autorem scénáøe? Hra o trùny Goerge RR Martin
-    d) V kterém mìstì a státì se tento klip natáèel? Tušíte proè? bylo to v dubrovníku protoe tam se natáèelo king´s landing 
-    co bylo hlavní mìsto westerosu kde sıdlil král 7 královsví
+1. ZjistÄ›te detailnÃ­ informace o staÅ¾enÃ©m videoklipu:
+    a) JmÃ©na interpretÅ¯ i nÃ¡zev hudebnÃ­ skupiny.2CELLOS Luka Å uliÄ‡ a Stjepan Hauser.
+    b) NÃ¡zev skladby. Game of Thrones.
+    c) S jakÃ½m seriÃ¡lem je tato skladba spojena? Kdo je autorem scÃ©nÃ¡Å™e? Hra o trÅ¯ny Goerge RR Martin.
+    d) V kterÃ©m mÄ›stÄ› a stÃ¡tÄ› se tento klip natÃ¡Äel? TuÅ¡Ã­te proÄ? Bylo to v dubrovnÃ­ku, protoÅ¾e tam se natÃ¡Äelo "KingÂ´s landing", 
+    coÅ¾ bylo hlavnÃ­ mÄ›sto Westerosu, kde sÃ½dlil krÃ¡l 7 krÃ¡lovsvÃ­.
     
-2. Pouijte pøehrávaè VLC a editor Audacity, abyste:
-    a) Zjistili základní údaje o daném videu: rozlišení, délku, pouité kodeky (zvuk i obraz)  05:03 Kodek: H264 - MPEG-4 AVC (part 10) (avc1) 
-     Kodek: MPEG AAC Audio (mp4a)  Rozlišení videa: 640x360
-    b) Oddìlili z videa zvukovou stopu ve formátu MP3.
-    c) Vytvoøili zkrácenou zvukovou ukázku dlouhou pøesnì 30 sekund s postupnım nábìhem zvuku na zaèátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).  
+2. PouÅ¾ijte pÅ™ehrÃ¡vaÄ VLC a editor Audacity, abyste:
+    a) Zjistili zÃ¡kladnÃ­ Ãºdaje o danÃ©m videu: rozliÅ¡enÃ­, dÃ©lku, pouÅ¾itÃ© kodeky (zvuk i obraz)  05:03 Kodek: H264 - MPEG-4 AVC (part 10) (avc1) 
+     Kodek: MPEG AAC Audio (mp4a)  RozliÅ¡enÃ­ videa: 640x360
+    b) OddÄ›lili z videa zvukovou stopu ve formÃ¡tu MP3.
+    c) VytvoÅ™ili zkrÃ¡cenou zvukovou ukÃ¡zku dlouhou pÅ™esnÄ› 30 sekund s postupnÃ½m nÃ¡bÄ›hem zvuku na zaÄÃ¡tku (efekt FadeIn) a zeslabenÃ­m zvuku na konci (efekt FadeOut).  
