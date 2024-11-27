@@ -1,15 +1,15 @@
-1. Ve sloce se nacházejí dva podobné soubory student1.txt a student2.txt. Z jednoho souboru zmizeli dva studenti. Zjistìte, o kterı soubor jde a vypište (zkopírujte) všechny údaje tìch dvou nešastníkù.
-v souboru studenti1-Sobek;Tobias;SV1B, Kaszper;Teresa;U1 chybí
-2. Pouijte soubor student1.txt a zjistìte:
-    a) jeho pøesnou velikost v bajtech
-    2 344 bajtù
-    b) kolik bajtù zabírá na disku
-    4 096 bajtù
-    c) kolik obsahuje znakù
-    4 211 znakù (vèetnì mezer a oddìlovaèù)
-    d) v jakém kódování byl uloen
+1. Ve sloÅ¾ce se nachÃ¡zejÃ­ dva podobnÃ© soubory student1.txt a student2.txt. Z jednoho souboru zmizeli dva studenti. ZjistÄ›te, o kterÃ½ soubor jde a vypiÅ¡te (zkopÃ­rujte) vÅ¡echny Ãºdaje tÄ›ch dvou neÅ¡Å¥astnÃ­kÅ¯.
+v souboru studenti1-Sobek;Tobias;SV1B, Kaszper;Teresa;U1 chybÃ­
+2. PouÅ¾ijte soubor student1.txt a zjistÄ›te:
+    a) jeho pÅ™esnou velikost v bajtech?
+    2Â 344 bajtÅ¯.
+    b) kolik bajtÅ¯ zabÃ­rÃ¡ na disku?
+    4Â 096 bajtÅ¯.
+    c) kolik obsahuje znakÅ¯?
+    4 211 znakÅ¯ (vÄetnÄ› mezer a oddÄ›lovaÄÅ¯).
+    d) v jakÃ©m kÃ³dovÃ¡nÃ­ byl uloÅ¾en
     
-    e) které køestní jméno je v souboru pouito nejèastìji
-    Matìj
-3. Získejte ze souboru student1.txt seznam ákù pouze vaší tøídy (IT1) a ulote jej do souboru IT1.txt.
-4. Upravte soubor IT1.txt tak, aby obsahoval pouze PRIJMENI a JMENA ákù bez èeské diakritiky a zapsaná velkımi písmeny.   
+    e) kterÃ© kÅ™estnÃ­ jmÃ©no je v souboru pouÅ¾ito nejÄastÄ›ji?
+    MatÄ›j.
+3. ZÃ­skejte ze souboru student1.txt seznam Å¾Ã¡kÅ¯ pouze vaÅ¡Ã­ tÅ™Ã­dy (IT1) a uloÅ¾te jej do souboru IT1.txt.
+4. Upravte soubor IT1.txt tak, aby obsahoval pouze PRIJMENI a JMENA Å¾Ã¡kÅ¯ bez ÄeskÃ© diakritiky a zapsanÃ¡ velkÃ½mi pÃ­smeny.   
