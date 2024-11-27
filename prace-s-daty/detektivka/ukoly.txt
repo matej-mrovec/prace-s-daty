@@ -1,28 +1,28 @@
-Zahrajte si na informaèní detektivy a zjistìte poadovaná fakta o následujících souborech:
+Zahrajte si na informaÄnÃ­ detektivy a zjistÄ›te poÅ¾adovanÃ¡ fakta o nÃ¡sledujÃ­cÃ­ch souborech:
 1. Soubor divny.txt:
-    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn? jen pro ètení skrytı
-    b) V jakém znakovém kódování je uloen? unicode
-    c) V jakém jazyce je napsán jeho obsah?japonština
-    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)? je to o vltavì wikipedie
+    a) JakÃ© mÃ¡ soubor pÅ™iÅ™azeny atributy a kdy byl vytvoÅ™en i zmÄ›nÄ›n? Jen pro ÄtenÃ­ skrytÃ½.
+    b) V jakÃ©m znakovÃ©m kÃ³dovÃ¡nÃ­ je uloÅ¾en? Unicode.
+    c) V jakÃ©m jazyce je napsÃ¡n jeho obsah? JaponÅ¡tina.
+    d) O Äem text pojednÃ¡vÃ¡ a z jakÃ©ho internetovÃ©ho zdroje pochÃ¡zÃ­ (ideÃ¡lnÄ› uveÄte pÅ™esnou URL adresu)? Je to o vltavÄ› wikipedie.
     
 2. Soubor city.jpg:
-    a) Jaké rozmìry má tato fotka (v pixelech)? 1366*766
-    b) Jak se jmenuje mìsto na obrázku? nairobi
-    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)? Kena afrika
-    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce? 1.2999969, 36,8131700E
-    e) Co se v této budovì nachází? apartmány
+    a) JakÃ© rozmÄ›ry mÃ¡ tato fotka (v pixelech)? 1366*766
+    b) Jak se jmenuje mÄ›sto na obrÃ¡zku? Nairobi.
+    c) Kde se toto mÄ›sto pÅ™esnÄ› nachÃ¡zÃ­ (uveÄte stÃ¡t i kontinent)? Kenya, Afrika.
+    d) ZjistÄ›te aspoÅˆ GPS souÅ™adnice nejvyÅ¡Å¡Ã­ budovy na fotce? 1.2999969, 36,8131700E
+    e) Co se v tÃ©to budovÄ› nachÃ¡zÃ­? ApartmÃ¡ny.
     
 3. Soubor person.jpg:
-    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku? 24  900*900
-    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)? Katalin Nováková maïarka prezidentka
-    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích. https://www.instagram.com/katalin.novak/reels/?hl=cs
-    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìm je jméno této osoby zmínìno.
+    a) JakÃ© jsou bitovÃ¡ hloubka a rozliÅ¡enÃ­ tohoto obrÃ¡zku? 24  900*900
+    b) Kdo je na tÃ©to fotografii (jmÃ©no, pÅ™Ã­jmenÃ­, nÃ¡rodnost, povolÃ¡nÃ­)? Katalin NovÃ¡kovÃ¡, maÄarka a prezidentka.
+    c) UveÄte adresu aspoÅˆ jednoho profilu tÃ©to osoby na sociÃ¡lnÃ­ch sÃ­tÃ­ch. https://www.instagram.com/katalin.novak/reels/?hl=cs
+    d) NajdÄ›te na internetu co nejaktuÃ¡lnÄ›jÅ¡Ã­ ÄlÃ¡nek v ÄeskÃ©m jazyce, v nÄ›mÅ¾ je jmÃ©no tÃ©to osoby zmÃ­nÄ›no.
     https://www.seznamzpravy.cz/clanek/zahranicni-byvala-madarska-prezidentka-se-stala-sefkou-nevladni-organizace-259333
     
 4. Soubor flag.png:
-    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku? 8 580*387
-    b) Vlajka kterého státu je na obrázku? bhútán
-    c) Najdìte bliší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto	Thimphu 	38 394 km2 	741 700
-    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkovıch blokù v pozadí vlajky.   FF 255 DS 213 20 32 
+    a) JakÃ¡ jsou bitovÃ¡ hloubka a rozmÄ›ry tohoto obrÃ¡zku? 8 580*387
+    b) Vlajka kterÃ©ho stÃ¡tu je na obrÃ¡zku? BhÃºtÃ¡n.
+    c) NajdÄ›te bliÅ¾Å¡Ã­ informace o tomto stÃ¡tu: rozlohu, poÄet obyvatel, hlavnÃ­ mÄ›sto: Thimphu, 38 394 km2, 741 700
+    d) ZjistÄ›te pÅ™esnÃ© barvy (RGB v desÃ­tkovÃ© i Å¡estnÃ¡ctkovÃ© soustavÄ›) obou trojÃºhelnÃ­kovÃ½ch blokÅ¯ v pozadÃ­ vlajky.   FF 255 DS 213 20 32 
     FF 255 4E 78 12 18
     
