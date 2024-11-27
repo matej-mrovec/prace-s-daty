@@ -1,0 +1,12 @@
+1. Zjistìte detailní informace o staženém videoklipu:
+    a) Jména interpretù i název hudební skupiny.2CELLOS Luka Šuliæ a Stjepan Hauser
+    b) Název skladby. Game of Thrones
+    c) S jakým seriálem je tato skladba spojena? Kdo je autorem scénáøe? Hra o trùny Goerge RR Martin
+    d) V kterém mìstì a státì se tento klip natáèel? Tušíte proè? bylo to v dubrovníku protože tam se natáèelo king´s landing 
+    což bylo hlavní mìsto westerosu kde sýdlil král 7 královsví
+    
+2. Použijte pøehrávaè VLC a editor Audacity, abyste:
+    a) Zjistili základní údaje o daném videu: rozlišení, délku, použité kodeky (zvuk i obraz)  05:03 Kodek: H264 - MPEG-4 AVC (part 10) (avc1) 
+     Kodek: MPEG AAC Audio (mp4a)  Rozlišení videa: 640x360
+    b) Oddìlili z videa zvukovou stopu ve formátu MP3.
+    c) Vytvoøili zkrácenou zvukovou ukázku dlouhou pøesnì 30 sekund s postupným nábìhem zvuku na zaèátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).  
